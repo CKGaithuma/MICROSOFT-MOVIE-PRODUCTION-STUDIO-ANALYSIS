@@ -53,9 +53,10 @@ This analysis leads to three Business insights for Microsoft's plans to venture 
 - The Recent Trends, according to The Box Office Mojo & The Numbers Movie Website, show an increase in Worldwide Gross and Net Income from Movies. Additionaly, the numbers show the genres of Drama and Thriller Movies as the genres with highest incomes. **Investing in the production of quality, well written and directed movies would be a very good business decision for Microsoft Corporation.**
 
 <h1 style="text-align:center;">Next Steps</h1>
+
 - **Further analysis and more recent datasets will help in making better insights and recommendations for Microsoft's Movie Production Venture.**
 
-- **Incorporating web scraping for current movie data and data modelling to produce predictions of business models.** 
+- **Incorporating web scraping for current movie data and data modelling to produce predictions of business models.**
 
 # Contacts
 
