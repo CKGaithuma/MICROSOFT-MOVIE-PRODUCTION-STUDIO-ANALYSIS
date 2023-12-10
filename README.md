@@ -52,13 +52,13 @@ This analysis leads to three Business insights for Microsoft's plans to venture 
 
 - The Recent Trends, according to The Box Office Mojo & The Numbers Movie Website, show an increase in Worldwide Gross and Net Income from Movies. Additionaly, the numbers show the genres of Drama and Thriller Movies as the genres with highest incomes. 
 
-<h1 style="text-align:center;">RECOMENDATIONS</h1>
+<h1 style="text-align:center;">RECOMMENDATIONS</h1>
 
 - **I recommend Microsoft to explore investment opportunities in the highly popular genres of Documentary, Drama, Biography, Comedy, Adventure, History, Music, Thriller, Sport and Family Movies, as they show significant potential.**
 
--**I would also recommend Microsoft to consider engaging the top-tier Directors such as Sam Mendes and writers such as Michael Showalter to enhance the quality of their movie productions.**
+- **I would also recommend Microsoft to consider engaging the top-tier Directors such as Sam Mendes and writers such as Michael Showalter to enhance the quality of their movie productions.**
 
--**Opting to invest in the creation of high-quality, meticulously crafted films could prove to be a strategic and lucrative business move for Microsoft Corporation as recent trends indicate growing revenues for the Box office industry.**
+- **Opting to invest in the creation of high-quality, meticulously crafted films could prove to be a strategic and lucrative business move for Microsoft Corporation as recent trends indicate growing revenues for the Box office industry.**
 
 <h1 style="text-align:center;">Next Steps</h1>
 
