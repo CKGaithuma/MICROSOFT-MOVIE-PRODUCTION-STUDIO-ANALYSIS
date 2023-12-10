@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">MICROSOFT MOVIE PRODUCTION STUDIO ANALYSIS</h1>
 
 <div style="text-align:center;">
-  <img src="Movie Studio Image 3.jpg" alt="Microsoft Movie Studio Logo">
+  <img src="Images/Movie Studio Image 3.jpg" alt="Microsoft Movie Studio Logo">
 </div>
 <h1 style="text-align:center;">OVERVIEW OF THE PROJECT</h1>
 This Project investigates recent box office movies. Detailed analyses of various movie components such as genre, directorship, and income. The results reveal that the success and popularity of recent box office releases are notably influenced by choice of popular genres such as dramas, along with the quality of production by top directors and writers like Sam Mendes and Michael Showalter. Microsoft can utilize these insights to shape decisions for their upcoming movie studio, assisting in the selection of movies to produce.
@@ -24,11 +24,11 @@ This analysis employs Data Wrangling, Exploratory Data Analysis and Visualizatio
 The most popular movie genre according to IMBD (Internet Movie Database) and The Movie Database (TMDB) websites ratings were the Documentary movies. 
 Top 10 Most Common Genres with High Ratings:Documentary, Drama, Biography, Comedy, Adventure, History, Music, Thriller, Sport and Family.
 
-![Graph 1](image-2.png)
+![Graph 1](Images/Popular-movies.png)
 
 The Top Directors of Movies in Recent times (According to Rotten Tomatoes Movie Website) are: Alexander Payne, Derek Cianfrance, Sam Mendes, Clint Eastwood, Greg Berlanti,Morten Tyldum, Michael Showalter, Andrew Stanton|Mark Atkins, Sacha Gervasi, and Ava DuVernay.
 
-![Alt text](image-3.png)
+![Alt text](Images/Top%20Directors.png)
 
 The Top Writers of Movies in Recent times(According to Rotten Tomatoes Movie Website) are: Bob Nelson, Derek Cianfrance, John Logan, Steven Baigelman, Peter Morgan, Graham Moore, Michael Showalter, Mark Atkins, Paul Webb.
 
