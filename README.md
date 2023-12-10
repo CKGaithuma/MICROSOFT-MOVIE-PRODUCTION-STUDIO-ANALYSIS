@@ -24,7 +24,7 @@ This analysis employs Data Wrangling, Exploratory Data Analysis and Visualizatio
 The most popular movie genre according to IMBD (Internet Movie Database) and The Movie Database (TMDB) websites ratings were the Documentary movies. 
 Top 10 Most Common Genres with High Ratings:Documentary, Drama, Biography, Comedy, Adventure, History, Music, Thriller, Sport and Family.
 
-![Graph 1](Images/Popular-movies.png)
+![Graph 1](Images/Popular%20movies.png)
 
 The Top Directors of Movies in Recent times (According to Rotten Tomatoes Movie Website) are: Alexander Payne, Derek Cianfrance, Sam Mendes, Clint Eastwood, Greg Berlanti,Morten Tyldum, Michael Showalter, Andrew Stanton|Mark Atkins, Sacha Gervasi, and Ava DuVernay.
 
@@ -32,16 +32,16 @@ The Top Directors of Movies in Recent times (According to Rotten Tomatoes Movie 
 
 The Top Writers of Movies in Recent times(According to Rotten Tomatoes Movie Website) are: Bob Nelson, Derek Cianfrance, John Logan, Steven Baigelman, Peter Morgan, Graham Moore, Michael Showalter, Mark Atkins, Paul Webb.
 
-![Alt text](image-4.png)
+![Alt text](Images/Top%20Writers.png)
 
 The Top Worldwide Grossing Movies in Recent times(According to Box Office Mojo & The Numbers Movie Website) are: Avengers: Infinity War, Jurassic World, Furious 7, Black Panther, Jurassic World: Fallen Kingdom, Frozen, Avengers: Age of Ultron, Incredibles 2, Iron Man 3.
 The Genre of the Top Grossing Movies in Recent times is mostly Drama and Thriller Movies
 
-![Alt text](image-5.png)
+![Alt text](Images/High%20Net%20Income%20Movies.png)
 
 The Recent Trends, according to The Box Office Mojo & The Numbers Movie Website, show increase in Net Income from Movies with a Rising Net Income of over $1 Billion from the year 2010 to 2018.
 
-![Alt text](image-6.png)
+![Alt text](Images/Movie%20Income%20Trends.png)
 
 <h1 style="text-align:center;">CONCLUSIONS</h1>
 This analysis leads to three Business insights for Microsoft's plans to venture into ShowBiz and the Movie Production Industry. new movie studio.
