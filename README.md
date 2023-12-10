@@ -66,5 +66,7 @@ This analysis leads to three Business insights for Microsoft's plans to venture 
 
 - **Incorporating web scraping for current movie data and data modelling to produce predictions of business models.**
 
-![Alt text](Images/Movie%20Studio%20Image.jpg)
+<div style="text-align:center;">
+  <img src="Images/Movie%20Studio%20Image.jpg" alt="Alt text">
+</div>
 
